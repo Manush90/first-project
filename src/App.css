@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.logout-button {
+  background-color: #970a2c;
+  color: #fbba00;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.asr {
+  height: 200px;
+  width: auto;
+}
